@@ -1,0 +1,22 @@
+.container{
+    max-width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-bottom: 50px;
+    min-height: 300px;
+    background-color: rgb(159, 193, 139);
+}
+
+
+.fd-row{
+    flex-direction: row;
+}
+
